@@ -1,16 +1,19 @@
-### Hi there 👋
+Halla 👋
+👨🏽‍💻 Name is Salah, and I am 29 years old.
 
-<!--
-**hsddev/hsddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm from London :gb:.
 
-Here are some ideas to get you started:
+Full Stack Developer 💻🌐.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm tech associate at 01Founders 🗒️✏️.
+
+Stuff I'm still learning:
+WebAssembly
+
+Stuff I'm familiar with:
+Astro HTML5 CSS JavaScript Bootstrap jQuery NodeJS NPM Vue.js Shell Script Git GitHub React SQLite Webpack Cloudflare Firebase
+
+found me at:
+My Website
+Instagram
+Twitter
