@@ -6,7 +6,7 @@ I'm from London :gb:.
 
 Full Stack Developer 💻🌐.
 
-Currently I'm tech associate at 01Founders 🗒️✏️.
+Currently I'm software engineer at 01Founders 🗒️✏️.
 </p>
 
 <h1>Stuff I'm familiar with:</h1><br />
